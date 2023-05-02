@@ -43,3 +43,7 @@ export interface Token {
     [language: string]: string;
   };
 }
+
+export interface Preferences {
+  "discord-uid": string;
+}

@@ -16,6 +16,22 @@
       "title": "Search Tokens",
       "description": "Search crypto tokens",
       "mode": "view"
+    },
+    {
+      "name": "watchlist",
+      "title": "Watchlist",
+      "description": "View your watchlist",
+      "mode": "view"
+    }
+  ],
+  "preferences": [
+    {
+      "name": "discord-uid",
+      "type": "textfield",
+      "required": true,
+      "title": "Discord User ID",
+      "description": "Your Discord User ID. You can find this by enabling \"Developer Mode\" in Discord's settings under the \"Advanced\" section and then right clicking on your profile and clicking \"Copy User ID\".",
+      "placeholder": "Enter your Discord User ID"
     }
   ],
   "dependencies": {
