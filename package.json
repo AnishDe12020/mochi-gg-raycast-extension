@@ -2,7 +2,7 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "mochi-gg",
   "title": "Mochi.gg",
-  "description": "",
+  "description": "Raycast extension for the Mochi.gg Discord bot and platform",
   "icon": "command-icon.png",
   "author": "AnishDe12020",
   "categories": [
@@ -14,12 +14,14 @@
     {
       "name": "search-tokens",
       "title": "Search Tokens",
+      "subtitle": "Mochi.gg",
       "description": "Search crypto tokens",
       "mode": "view"
     },
     {
       "name": "watchlist",
       "title": "Watchlist",
+      "subtitle": "Mochi.gg",
       "description": "View your watchlist",
       "mode": "view"
     }
